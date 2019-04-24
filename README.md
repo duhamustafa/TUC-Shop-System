@@ -1,2 +1,0 @@
-# TUC-Shop-System
-assignment
